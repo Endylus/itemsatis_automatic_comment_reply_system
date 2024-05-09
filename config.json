@@ -1,0 +1,12 @@
+{
+    "session_id": "Your session_id",
+    "low_score": 7,
+    "low_score_setting": {
+        "enabled": true,
+        "text": "Yaşamış olduğunuz sorunu sohbet kısmından yazarsanız, size yardımcı olmaktan memnuniyet duyarız."
+    },
+    "high_score_setting": {
+        "enabled": true,
+        "text": "Bizi tercih ettiğiniz için teşekkür ederiz! Yardıma ihtiyacınız olursa her zaman buradayız."
+    }
+}

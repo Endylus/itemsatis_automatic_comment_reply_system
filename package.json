@@ -1,0 +1,19 @@
+{
+  "name": "itemsatis_automatic_comment_reply_system",
+  "version": "1.0.0",
+  "main": "./src/",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@endylus/logger": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.7",
+    "path": "^0.12.7"
+  },
+  "description": ""
+}
