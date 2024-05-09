@@ -7,7 +7,8 @@ This project is a script that automatically responds to the evaluations received
 2. **Cookie-Editor Extension:** Add the Cookie-Editor extension to your browser. You can download the extension from [here](https://chromewebstore.google.com/detail/hlkenndednhfkekhgcdicdfddnkalmdm).
 3. **Obtaining Session_id:** You need to use the Cookie-Editor extension to manage the cookies required for the project to work. You can learn how to use it by watching the video below:
 
-[Watch the video tutorial](https://github.com/Endylus/itemsatis-Automatic-Comment-Reply-System/assets/122468378/45b83669-6adc-4d95-96d7-197df74e1c6f)
+https://github.com/Endylus/itemsatis_automatic_comment_reply_system/assets/122468378/07edd629-7033-44b6-a0ab-bf78674e032b
+
 
 4. Configure the program by editing the `config.json` file. An example configuration is as follows:
 
