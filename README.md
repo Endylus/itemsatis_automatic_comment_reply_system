@@ -51,4 +51,4 @@ No responsibility is accepted for any problems that may arise from the use of th
 
 ## Support
 
-If you have any questions, feel free to join my Discord server: [https://discord.gg/dctoken](https://discord.gg/dctoken)
+If you have any questions, feel free to join my Discord server: [https://discord.gg/tokenverse](https://discord.gg/tokenverse)
